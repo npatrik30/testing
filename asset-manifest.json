@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bda4f8a1.css",
+    "main.js": "/static/js/main.93de2579.js",
+    "static/media/lastra.png": "/static/media/lastra.e5c956201429322ebd6f.png",
+    "static/media/gradient.jpg": "/static/media/gradient.cc5bfabd16f0316e0399.jpg",
+    "index.html": "/index.html",
+    "main.bda4f8a1.css.map": "/static/css/main.bda4f8a1.css.map",
+    "main.93de2579.js.map": "/static/js/main.93de2579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda4f8a1.css",
+    "static/js/main.93de2579.js"
+  ]
+}
